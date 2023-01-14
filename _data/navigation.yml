@@ -7,6 +7,5 @@ main:
     url: /tags/
   - title: "CV"
     url: "/assets/pdf/ShaoKangHsiaResume.pdf"
-    target: _blank
   - title: "About"
     url: /about/
