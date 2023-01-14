@@ -56,11 +56,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Shao-Kang Hsia"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Roboticist."
-  github : "BearHsia"
-  linkedin: "shaokanghsia"
+  name     : "Shao-Kang Hsia"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Roboticist."
+  location : "Taipei, Taiwan"
+  email    : "Shao-Kang Hsia"
+  github   : "BearHsia"
+  linkedin : "shaokanghsia"
+  
 
 defaults:
   # _posts
